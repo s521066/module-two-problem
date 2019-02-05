@@ -6,26 +6,31 @@ body, html {
   height: 100%;
 }
 
+img {
+  border-radius: 50%;
+  position: relative;
+ }
+
 .video-container {
   position: relative;
   padding-bottom: 50%;
   padding-top: 20px;  
   width: 100%;
-  background-color: lightblue;
+  background-color: lightskyblue;
 }
 
 section {
   margin: 1rem;
   padding: 2rem;
-  background-color: lightblue;
+  background-color: lightskyblue;
   border-radius: 2em;
 }
 
 .bgimg {
-  background-image: url("https://mdbootstrap.com/img/Photos/Horizontal/Nature/full page/img(11).jpg");
+  background-image: linear-gradient(rgba(255,255,255,0.5), rgba(255,255,255,0.5)), url("./background.jpg");
   height: 100%;
   position: relative;
-  opacity: 0.85;
+  opacity: 0.90;  
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
