@@ -26,6 +26,13 @@ section {
   border-radius: 2em;
 }
 
+aside {
+  margin: 1rem;
+  padding: 2rem;
+  background-color: lightskyblue;
+  border-radius: 2em;
+}
+
 .bgimg {
   background-image: linear-gradient(rgba(255,255,255,0.5), rgba(255,255,255,0.5)), url("./background.jpg");
   height: 100%;
