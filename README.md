@@ -8,3 +8,4 @@ Module 2 P2
 - Weather widget: [weatherWidget](https://weatherwidget.io/)
 - Video (Youtube): [CPAStrengthYoutube](https://www.youtube.com/watch?v=0--jJn6zqfg)
 - Navbar: [Bootstrap4CDN](https://getbootstrap.com/)
+- Table: [HTMLTableGenerator](https://www.tablesgenerator.com/html_tables)
